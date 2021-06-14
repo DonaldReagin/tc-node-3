@@ -19,6 +19,7 @@
 15. [Scott Severance](https://github.com/mssever)
 16. [Stephen Waldron](https://github.com/stephenwaldron1)
 17. [Torry Haynes](https://github.com/Thaynes41)
+2. [Donald Reagin](https://github.com/DonaldReagin)
 
 ## Getting Started
 
